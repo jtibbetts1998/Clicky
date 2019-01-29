@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Walter White",
+        "about": "'Chemistry is the study of matter, but I prefer to see it as the study of change'",
+        "image": "https://media1.s-nbcnews.com/j/streams/2012/October/121010/1C4235316-121010-ent-cranston-hmed.fit-1000w.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Skylar White",
+        "about": "'Someone has to protect this family from the man who protects this family'",
+        "image": "https://usercontent2.hubstatic.com/8804181_f520.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Gus Fring",
+        "about": "'I hide in plain sight, same as you'",
+        "image": "https://usercontent1.hubstatic.com/8804188_f520.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jesse Pinkman",
+        "about": "'What good is it being an outlaw if you have responsibilities?'",
+        "image": "https://vignette.wikia.nocookie.net/breakingbad/images/a/a7/Jesse_in_Car.png/revision/latest?cb=20130724232300"
+    },
+    {
+        "id": 5,
+        "name": "Hank",
+        "about": "'No they're minerals, Jesus Marie!'",
+        "image":"https://vignette.wikia.nocookie.net/breakingbad/images/d/da/HankDEA.jpg/revision/latest?cb=20160414072827"
+    },
+    {
+        "id": 6,
+        "name": "Mike",
+        "about": "'Just because you shot Jesse James, don’t make you Jesse James'",
+        "image":"https://vignette.wikia.nocookie.net/breakingbad/images/a/aa/Mike2.jpg/revision/latest?cb=20100402030746"
+    },
+    {
+        "id": 7,
+        "name": "Hector",
+        "about": "'La familia es todo(Family is all)'",
+        "image": "https://vignette.wikia.nocookie.net/breakingbad/images/7/70/Tio.jpg/revision/latest?cb=20090622011922"
+    },
+    {
+        "id": 8,
+        "name": "Teddy Bear",
+        "about": "Symbolic for loss of innocence",
+        "image": "https://vignette.wikia.nocookie.net/breakingbad/images/3/3c/Pink_Teddy_Bear.png/revision/latest?cb=20130801040751"
+    },
+    {
+        "id": 9,
+        "name": "Saul Goodman",
+        "about": "'I once told a woman I was Kevin Costner, and it worked because I believed it'",
+        "image":"https://vignette.wikia.nocookie.net/breakingbad/images/8/89/Saul.jpg/revision/latest?cb=20090621220850"
+    },
+    {
+        "id": 10,
+        "name": "Tuco",
+        "about": "Psychotic kingpin and the duo's first major step into their journey",
+        "image":"https://usercontent2.hubstatic.com/8804121_f520.jpg"
+    },
+    {
+        "id": 11,
+        "name": "The Cousins",
+        "about": "Nephews of Hector and feared hitmen",
+        "image":"https://vignette.wikia.nocookie.net/breakingbad/images/3/32/No_Mas.jpg/revision/latest?cb=20100324190259"
+    },
+    {
+        "id": 12,
+        "name": "Walt Jr",
+        "about": "'Mom, why you gotta be so mean to Dad?'",
+        "image":"https://vignette.wikia.nocookie.net/breakingbad/images/0/0e/Bb-tohajiilee5x13-photo3.PNG/revision/latest?cb=20130911005813"
+    }
+]
